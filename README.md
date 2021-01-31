@@ -1,6 +1,6 @@
 # Ixtlan-Team
 
-na poti "calendar\out\artifacts\calendar_jar" najdete .jar datoteko in primer datoteke s prazniki.
+na poti "calendar\out\artifacts\calendar_jar" najdete .jar datoteko, ki jo lahko poženete (potrebna java) in primer datoteke s prazniki.
 
 Prazniki so obarvani z modro barvo, trenutni dan z zeleno, izbrani dan z temnejšo zeleno in prazniki z modro. Za neponavljajoč praznik sem vnesel letošnjo veliko noč 4.4.2021, ostali ponavljajoči so praznik dela, božič, novo leto... V primeru da datoteka ni priložena zraven, se prazniki ne bodo pokazali.
 
